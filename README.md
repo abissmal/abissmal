@@ -4,13 +4,11 @@
 
 📚 Currently learning Web Development: HTML, CSS, Javascript, PHP, MYSQL.
 
-👯 I’m open to collaborate on projects!
-🤔 I’m looking for help with: How to become a badass developer 
-🎵 In my free time I'm a musician & composer 
-😄 Pronouns: He/Him
-📫 How to reach me:
-      Gmail: abismaloficial@gmail.com
-      Instagram: @dontburnmyguitar
+- 👯 I’m open to collaborate on projects!
+- 🤔 I’m looking for help with: How to become a badass developer 🤠
+- 🎵 In my free time I'm a musician & composer 
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: abismaloficial@gmail.com
       
 
 
