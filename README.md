@@ -9,7 +9,7 @@
 🎵 In my free time I'm a musician & composer 
 😄 Pronouns: He/Him
 📫 How to reach me:
-      Gmail: abismal@oficial.com
+      Gmail: abismaloficial@gmail.com
       Instagram: @dontburnmyguitar
       
 
